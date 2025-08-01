@@ -68,4 +68,4 @@ Keep knowledge and access up to sync across 40+ connectors:
 To try the Techpeek AI Enterprise Edition:
 
 1. Checkout [Techpeek AI](https://enterprise.techpeek.in/).
-2. For self-hosting the Enterprise Edition, contact us at [legalaxess@gmail.com](mailto:legalaxess@gmail.com) or book a call with us on our [investment@techpeek.in](mailto:investment@techpeek.in).
+2. For self-hosting the Enterprise Edition, contact us at [legalaxess@gmail.com](mailto:legalaxess@gmail.com).
