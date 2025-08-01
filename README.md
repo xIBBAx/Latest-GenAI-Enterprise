@@ -21,7 +21,7 @@ Techpeek AI can be deployed securely anywhere and for any scale - on a laptop, o
 
 ## Deployment
 
-**To try it out for free and get started in seconds, contact us at [Techpeek AI](legalaxess@gmail.com)**.
+**To try it out for free and get started in seconds, contact us at [Techpeek AI](mailto:legalaxess@gmail.com)**.
 
 Techpeek AI can also be run locally (even on a laptop) or deployed on a virtual machine with a single
 `docker compose` command. Checkout our [docs](https://github.com/xIBBAx/Techpeek-AI-Documentations) to learn more.
@@ -68,4 +68,4 @@ Keep knowledge and access up to sync across 40+ connectors:
 To try the Techpeek AI Enterprise Edition:
 
 1. Checkout [Techpeek AI](https://enterprise.techpeek.in/).
-2. For self-hosting the Enterprise Edition, contact us at [legalaxess@gmail.com](mailto:legalaxess@gmail.com) or book a call with us on our [Cal](investment@techpeek.in).
+2. For self-hosting the Enterprise Edition, contact us at [legalaxess@gmail.com](mailto:legalaxess@gmail.com) or book a call with us on our [investment@techpeek.in](mailto:investment@techpeek.in).
