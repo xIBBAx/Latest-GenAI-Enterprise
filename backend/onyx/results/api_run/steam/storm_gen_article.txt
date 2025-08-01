@@ -1,0 +1,65 @@
+# Overview
+
+Steam is the gaseous form of water [1]. It is chemically identical to liquid water, but possesses a higher energy content and occupies a larger volume [1]. The scientific term for steam is water vapor [1]. Engineering steam often exists as a two-phase system, containing both liquid and gaseous water, sometimes referred to as "wet steam" [2].
+Steam is a crucial component in various applications, including steam-heated processes in industrial plants and factories, as well as driving turbines in electric power plants [3]. It is also historically significant, having powered early locomotives, steam boats, and factories, thus forming a foundation for the Industrial Revolution [4] [5] [6]. The development of the steam engine, particularly the improvements made by James Watt, played a significant role in replacing manpower in factories and boosting productivity [4] [7]. Early steam engines were used for pumping water from coal mines [6].
+Steam can be classified into different types based on its properties [8] [9] [10]. Saturated steam exists at its boiling point for a given pressure [11] [12]. When saturated steam is heated further, it becomes superheated steam [13] [14] [15] [16] [17] [18]. Utility steam, a type of saturated steam, is commonly used in industrial processes and contains both latent and sensible energy [19].
+The study and application of steam properties are relevant in mechanical engineering [20] [21]. Mechanical engineering involves the engineering of vehicles, engines, and other mechanical systems [22]. Thermodynamics, a field within mechanical engineering, deals with the properties of steam [23]. The broader context of science, technology, engineering, and mathematics (STEM) [24] and the integration of arts into STEAM [25] [26] [27] [28] [29] [30] highlights the importance of steam-related knowledge in a multidisciplinary approach to education and innovation.
+
+# Properties of Steam
+
+Steam, also known as water vapor, is the gaseous form of water (H₂O) [1]. It is chemically identical to liquid water, but possesses a higher energy state and occupies a greater volume [1]. Understanding the properties of steam is crucial in various applications, particularly in power generation and industrial processes [31].
+
+## Thermodynamic Properties
+
+Thermodynamic properties define the state of steam and its ability to perform work [32] [33] [34] [35].
+*   **Temperature (T):**  A measure of the steam's heat energy [36].
+*   **Pressure (P):** The force exerted by the steam per unit area.
+*   **Specific Volume (v):** The volume occupied by a unit mass of steam [36] [37] [38].  The specific volume of steam increases with temperature and decreases with pressure [39].
+*   **Density (ρ):** The mass of steam per unit volume [36] [37] [38].
+*   **Specific Enthalpy (h):** The total heat content of one kilogram of steam, representing the sum of energy in its various states (liquid and gas) [36] [37] [40] [38] [41]. It represents the energy required to heat water from 0°C to its boiling point [40].
+These properties are interconnected and can be found in steam tables, which provide values for saturated and superheated steam at various temperatures and pressures [37] [38].
+
+## States of Steam
+
+Steam can exist in different states, each with distinct properties [9] [42]:
+*   **Wet Steam:** A mixture of water and steam [9] [2]. Engineering steam often exists as a two-phase system, meaning both liquid and gaseous water are present [2].
+*   **Saturated Steam:** Steam at its boiling point for a given pressure [38] [12] [13].
+*   **Superheated Steam:** Steam heated above its saturation temperature at a given pressure [9] [42] [43] [12] [13].  Superheated steam contains only gaseous water [43]. The degree of superheat is the difference between the superheated steam's temperature and the saturated vapor temperature at the same pressure [44].
+
+## Energy Transfer
+
+A significant property of steam is its ability to carry and release large amounts of energy [31]. This is due to the high latent heat of vaporization, the energy required to convert water into steam at a constant temperature [38]. The enthalpy of steam reflects this energy-carrying capacity [41] [45].
+
+## Physical and Chemical Properties
+
+Steam is chemically the same as water (H₂O) [1]. The transformation from liquid water to steam is a physical change, not a chemical one [1] [46] [47]. Steam's physical properties, such as density and specific volume, are highly dependent on temperature and pressure [36] [39].
+
+# Steam Generation
+
+Steam, the gaseous form of water, is produced through thermal evaporation of water or another working fluid [48] [1]. This process involves heating water to its boiling point, resulting in saturated steam [13]. Further heating above the saturation point produces superheated steam [13]. Steam is chemically identical to water but possesses more energy and occupies a larger volume [1].
+Most industrial processes utilize utility steam, a type of saturated steam that contains both latent and sensible energy [19]. The steam generated can be used for various industrial applications, including heating, sterilization, and driving turbines for electricity generation [49] [3] [50].
+Steam boilers are essential components in steam generation. Boilers can be classified based on several factors, including their tube layout (fire tube vs. water tube), axis, furnace location, application, pressure, and water content [51] [52]. These boilers find widespread use in industries such as manufacturing, power generation, food processing, sugar, paper, pulp, and chemical industries [53] [54] [55]. Guidelines for the safe and efficient operation of steam-heating boilers are provided by organizations such as ASME [56].
+The development of the steam engine, particularly James Watt's improvements such as the separate condenser, significantly increased efficiency and made steam power practical for various applications [57] [58] [59]. Steam engines played a crucial role in the Industrial Revolution, powering early locomotives, steamboats, and factories [4].
+
+# Industrial Applications
+
+Steam plays a vital role in numerous industrial processes, leveraging its ability to efficiently carry and release large amounts of energy under pressure [31]. Its applications span across diverse sectors, including chemical and petrochemical, pharmaceutical, engineering, food processing, and power generation [55] [60] [61] [3] [53].
+In the chemical and petrochemical industries, steam is essential for various operations, and the ASME Boiler and Pressure Vessel Code (ASME BPVC) is often applied to steam generation systems within these operations [55] [62]. The pharmaceutical industry also relies heavily on steam for sterilization and other processes [55] [60] [63]. The engineering industry, encompassing civil, chemical, industrial, electrical, and mechanical engineering, utilizes steam in various applications [55] [61] [21].
+The food processing industry uses steam for heating, sterilization, and other processes [60] [64]. Dairies, rice mills, and the textile industry also rely on steam for various purposes such as milk processing, rice processing, and fabric dyeing, finishing, and ironing [60] [65].
+Furthermore, steam is critical in power generation, where it drives turbines to produce electricity [50] [3] [49]. Superheated steam is often preferred in these applications due to its efficiency in driving turbines [66]. Industrial steam boilers are commonly used across these industries to generate the necessary steam [55] [54] [53]. The use of steam for process heating offers multiple benefits over other heating methods [67]. In some cases, superheated steam is used as a drying medium, improving energy efficiency by reusing energy from exhausted steam [68]. Utility steam, a type of saturated steam, is frequently used in industrial steam processes, containing both latent and sensible energy [19].
+
+# Safety and Standards
+
+The design and construction of steam-related equipment, such as boilers and pressure vessels, are heavily regulated to ensure safety and prevent accidents [69]. These regulations often adhere to standards developed by organizations like the American Society of Mechanical Engineers (ASME) [70][69].
+ASME Codes and Standards are widely recognized and implemented in various industries [71]. These codes provide standard directions and rules for conducting and reporting tests of specific materials, equipment, and processes [72]. The ASME Boiler and Pressure Vessel Code (BPVC) is a prominent example, regulating the design, construction, and inspection of boilers and pressure vessels [73][69]. Section VIII, Division 1 of the BPVC, for instance, focuses on the construction of new pressure vessels for a range of industrial and commercial applications [74]. These standards are developed under procedures accredited as meeting the criteria for American National Standards [75][76].
+ASME also publishes standards related to power piping systems, such as ASME B31.1, which provides rules for power piping [77][78]. These standards are crucial for specifying and manufacturing Heat Recovery Steam Generators (HRSG) units and addressing the needs for improved standards related to cyclic operations [79].
+
+# Environmental Impact
+
+The use of steam power, while historically significant [80], has environmental implications. A significant portion of the world's electricity is generated by steam turbines in power stations, including coal-fired plants [50]. The steam consumption of turbines can impact fuel consumption [81]. Steam is also used in various industrial applications [60] [55], including chemical plants [82]. The generation of steam can involve processes like waste-to-energy systems [83]. The properties of steam, such as temperature, pressure, specific volume, enthalpy, and entropy, vary depending on whether it is saturated, wet, or superheated [42]. Steam can also be used to improve physical and chemical properties in some applications [84].
+
+# History
+
+The earliest known records of steam technology date back to Alexandria in A.D. 75, with mathematician Hero describing the aeolipile, a rudimentary steam engine and reaction steam turbine [85][86]. However, the practical application of steam power began much later. Thomas Savery invented an early steam pump in 1698 [86][87][88][89].
+In 1712, Thomas Newcomen's atmospheric engine became the first commercially successful engine using the principle of the piston and cylinder [86]. These engines were primarily used to pump water out of coal mines [86][90]. The Newcomen engine, while a significant advancement, was inefficient and consumed a large amount of fuel [91][92][93][94][95][96]. One major limitation was the need to constantly cool and reheat the cylinder, leading to significant energy loss [95][96].
+James Watt significantly improved the steam engine in 1765 by introducing a separate condenser [91][97][57][98][99][100][59][58]. This innovation allowed the steam and cooling processes to occur independently, dramatically increasing efficiency and reducing fuel consumption [91][97][57][98][99][100][59][58]. Watt also invented the double-acting engine, which injected steam into both ends of the cylinder, further enhancing efficiency [101][102]. Watt's improved steam engine, patented in 1781, became a key enabler of the Industrial Revolution, powering factories, mills, and transportation systems [4][89][103][104][7][105][106][107].

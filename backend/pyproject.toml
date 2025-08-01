@@ -1,0 +1,24 @@
+[tool.mypy]
+plugins = "sqlalchemy.ext.mypy.plugin"
+mypy_path = "$MYPY_CONFIG_FILE_DIR"
+explicit_package_bases = true
+disallow_untyped_defs = true
+enable_error_code = ["possibly-undefined"]
+strict_equality = true
+
+[[tool.mypy.overrides]]
+module = "alembic.versions.*"
+disable_error_code = ["var-annotated"]
+
+[[tool.mypy.overrides]]
+module = "alembic_tenants.versions.*"
+disable_error_code = ["var-annotated"]
+
+[tool.ruff]
+ignore = []
+line-length = 130
+select = [
+    "E",
+    "F",
+    "W",
+]

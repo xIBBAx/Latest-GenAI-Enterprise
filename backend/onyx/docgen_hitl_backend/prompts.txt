@@ -1,0 +1,121 @@
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Parties for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: No additional information found
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Parties
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Services for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This section identifies the two parties involved in the service agreement: ABC, the Service Provider offering website development, and XYZ, the Client seeking a robotics SaaS platform. It establishes their roles and provides placeholders for their legal entity type, registration details, and addresses.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Services
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Payment Terms for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This section identifies the two parties involved in the service agreement: ABC, the Service Provider offering website development, and XYZ, the Client seeking a robotics SaaS platform. It establishes their roles and provides placeholders for their legal entity type, registration details, and addresses.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Payment Terms
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Term for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This section identifies the two parties involved in the service agreement: ABC, the Service Provider offering website development, and XYZ, the Client seeking a robotics SaaS platform. It establishes their roles and provides placeholders for their legal entity type, registration details, and addresses.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Term
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Confidentiality for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This section identifies the two parties involved in the service agreement: ABC, the Service Provider offering website development, and XYZ, the Client seeking a robotics SaaS platform. It establishes their roles and provides placeholders for their legal entity type, registration details, and addresses.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Confidentiality
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Intellectual Property for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This section identifies the two parties involved in the service agreement: ABC, the Service Provider offering website development, and XYZ, the Client seeking a robotics SaaS platform. It establishes their roles and provides placeholders for their legal entity type, registration details, and addresses.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Intellectual Property
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Warranties for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This Service Agreement is between ABC (Service Provider) and XYZ (Client) for the development of a robotics SaaS platform. The agreement has an initial term of three months, commencing on the Effective Date.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Warranties
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Limitation of Liability for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: ABC warrants professional service delivery and a defect-free robotics SaaS platform for 30 days post-completion. This warranty excludes issues from misuse or unauthorized modifications. XYZ warrants its authority to enter the agreement and provide necessary project information.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Limitation of Liability
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Termination for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This Service Agreement is between ABC (Service Provider) and XYZ (Client) for the development of a robotics SaaS platform. The agreement has an initial term of three months, commencing on the Effective Date.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Termination
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Governing Law for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This section identifies the two parties involved in the service agreement: ABC, the Service Provider offering website development, and XYZ, the Client seeking a robotics SaaS platform. It establishes their roles and provides placeholders for their legal entity type, registration details, and addresses.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Governing Law
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+
+The following service agreement is abc and xyz wherein abc is offering their services of website development to build the robotics SaaS platform for xyz. The total amount will be 1L rupees which will be paid 50% in advance and 50% at completion. The duration of the agreement will be for three months.. Only write a section on the Entire Agreement for the service agreement, Do not write the whole service agreement. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: This section identifies the two parties involved in the service agreement: ABC, the Service Provider offering website development, and XYZ, the Client seeking a robotics SaaS platform. It establishes their roles and provides placeholders for their legal entity type, registration details, and addresses.
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: Entire Agreement
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.
+

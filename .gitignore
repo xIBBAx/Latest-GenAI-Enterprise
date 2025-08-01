@@ -1,0 +1,25 @@
+# editors
+.vscode
+.zed
+
+# macos
+.DS_store
+
+# python
+.venv
+.mypy_cache
+.idea
+
+# testing
+/web/test-results/
+backend/onyx/agent_search/main/test_data.json
+backend/tests/regression/answer_quality/test_data.json
+
+# secret files
+.env
+jira_test_env
+
+# others
+/deployment/data/nginx/app.conf
+*.sw?
+/backend/tests/regression/answer_quality/search_test_config.yaml

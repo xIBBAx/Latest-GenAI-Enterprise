@@ -1,0 +1,31 @@
+# Overview
+## History
+## Features
+## Reception
+# History
+## Development
+## Release History
+## Forks and Derivatives
+# Features
+## User Interface
+## Customization
+## Security and Privacy
+## Standards Support
+## Add-ons and Extensions
+## Synchronization
+## Accessibility
+# Technology
+## Gecko Engine
+## Quantum Project
+## WebAssembly Support
+# Usage and Market Share
+## Platform Availability
+## Market Share Trends
+# Reception
+## Critical Reception
+## Awards and Recognition
+## Controversies
+## Related Browsers
+## Mozilla Foundation
+## Official Website
+## Mozilla Wiki Page

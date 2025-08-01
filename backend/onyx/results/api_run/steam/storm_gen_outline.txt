@@ -1,0 +1,88 @@
+# Overview
+## Definition
+### Scientific Definition (H2O in gaseous form)
+### Engineering Steam (Two-phase system)
+## Types of Steam
+### Saturated Steam
+### Wet Steam
+### Superheated Steam
+## Historical Significance
+### Role in the Industrial Revolution
+### Modern Applications
+## STEAM Education
+# Properties of Steam
+## Physical Properties
+### Density and Specific Volume
+### Relationship to Temperature and Pressure
+## Thermodynamic Properties
+### Enthalpy
+### Entropy
+### Temperature
+### Pressure
+### Phase Changes
+#### Vaporization
+#### Condensation
+#### Sublimation
+#### Deposition
+# Steam Generation
+## Boilers
+### Types of Boilers
+### Boiler Components
+### Boiler Efficiency
+## Alternative Generation Methods
+### Geothermal Steam
+### Solar Steam Generation
+### Nuclear Steam Generation
+# Industrial Applications
+## Power Generation
+### Steam Turbines
+### Rankine Cycle
+## Process Heating
+### Advantages of Steam Heating
+### Industries Using Steam Heating
+## Food Processing
+### Sterilization
+#### Autoclaves
+#### Medical Sterilization
+### Cooking
+## Mechanical Work
+### Steam Engines
+### Steam Hammers
+## Other Applications
+### Chemical and Petrochemical Industries
+### Pharmaceutical Industry
+### Textile Industry
+# Safety and Standards
+## ASME Codes and Standards
+### Materials and Welding
+### Pressure Vessel Design and Construction (BPVC)
+### Steam Piping (ASME B31.1)
+### Operation and Maintenance (ASME Section VI)
+### HRSG Units
+## Safety Considerations
+### Pressure Hazards
+### Temperature Hazards
+### Water Hammer
+### Corrosion
+### Boiler Explosions
+# Environmental Impact
+## Greenhouse Gas Emissions
+## Water Usage
+## Thermal Pollution
+# History
+## Early Conceptualizations
+### Hero's Aeolipile
+## Development of Steam Engines
+### Thomas Savery
+### Thomas Newcomen
+#### Limitations of Newcomen's Engine
+##### Inefficiency
+##### Bulkiness and Slow Operation
+### James Watt
+#### Watt's Innovations
+##### Separate Condenser
+##### Double-Action Engine
+## Industrial Revolution
+## Modern Developments
+## Related Topics
+## Citations

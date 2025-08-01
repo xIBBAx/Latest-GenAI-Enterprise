@@ -1,0 +1,7 @@
+List all major sections without subsections that are required for a {document_title} based on the following description: {document_info}.
+Ensure the output is strictly formatted as follows:
+
+1. Section Title: Title A
+2. Section Title: Title B
+3. Section Title: Title C
+...

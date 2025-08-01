@@ -1,0 +1,10 @@
+The following {document_title} is {document_info}. Only write a section on the {iterating_section} for the {document_title}, Do not write the whole {document_title}. Finally write a short summary of not more than 100 words that encompasses the major details of the section created.
+Here is some additional information: {additional_information}
+
+The output format should strictly follow the following format as is, do not remove the "Section Title" or "Section Content" or "Summary", Do not edit the Section Title:
+
+Section Title: {iterating_section}
+Section Content: <Content of the section>
+Summary: <content of summary>
+
+Make sure to be precise and follow the output format strictly do not say "Here is the output:" in the output.

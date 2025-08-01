@@ -1,0 +1,104 @@
+# Overview
+
+Sapphire is a gemstone variety of the mineral corundum, consisting of aluminum oxide (Al₂O₃) with trace elements such as iron, titanium, chromium, vanadium, or magnesium [1]. The name "sapphire" is derived from the Greek word "sappheiros," which originally referred to blue stones, including lapis lazuli [2].
+Rough sapphires can sometimes resemble ordinary pebbles, requiring experience to identify [3]. Once recognized, further evaluation is possible [3]. Sapphires are valued for their color, with color being a primary determinant of value [4]. Clarity is another important factor [4].
+Sapphires exhibit a phenomenon called pleochroism, where the color appears to change depending on the viewing angle in doubly refractive gems [5][6]. This variation in color is due to the gem's interaction with light [5].
+Gem cutting styles, which refer to the shape and arrangement of facets, significantly impact a sapphire's appearance [7]. The three basic styles are brilliant, step, and mixed cuts [7]. There are also unique sapphire size charts to help understand the various cuts [8].
+In gemology, internal imperfections are referred to as inclusions [9]. These inclusions can sometimes indicate whether a gem has undergone treatments [9]. For example, "lily pad" inclusions are associated with peridot, while discoid inclusions are found in sapphire [10].
+A notable variety is the Padparadscha sapphire, also known as "Padmarag" in Sanskrit [11]. This term describes sapphires with pink, orangish-pink, golden-pink, or golden-red hues [11][12]. Distinguishing between pink sapphire and ruby can be challenging [12].
+
+# Properties
+
+Sapphire, a variety of corundum, is an aluminum oxide mineral with the chemical formula Al<sub>2</sub>O<sub>3</sub> [13][14][15][16][17]. It belongs to the trigonal (rhombohedral) crystal system, though it is often treated as hexagonal [18][19]. The crystal structure is characterized by a hexagonal arrangement [20][17]. Sapphire's defining properties include its exceptional hardness, rating 9 on the Mohs scale [21][22][2][23]. This makes it a very durable and scratch-resistant material [21][24][25][26].
+Other key physical properties of sapphire include:
+*   **Density:** 3.
+*   **Melting Point:** 2040-2053 °C [27][28]
+*   **Refractive Index:** Approximately 1.76 in the visible spectrum [29][30]. Specifically, nω = 1.767-1.772 and nε = 1.759-1.763 [31][32].
+*   **Birefringence:** 0.008-0.
+*   **Optical Transmission Range:** 0.17 - 5.
+*   **Crystal Structure:** Hexagonal-rhombohedral [33][26]
+*   **Hardness (Mohs):** 9 [21][22][2][23]
+*   **Tensile Strength:** 300 to 400 MPa [26]
+Sapphire is also known for its chemical inertness and corrosion resistance [21][25][34]. It is insoluble in water [27]. Sapphire can withstand extreme environmental conditions, including high temperatures and pressures [24]. However, at high temperatures (e.g., 1000°C), it may react with other materials like zinc oxide (ZnO) [35]. As an anisotropic crystal, some of its properties, such as hardness and thermal expansion, can vary depending on the crystal orientation [19][36].
+The color of sapphire is influenced by trace elements within the aluminum oxide structure [14][37]. For example, the presence of chromium, iron, and titanium can result in a range of colors from light blue to intense blue [37][38]. Some sapphires exhibit color change under different lighting conditions, typically appearing blue-violet in daylight and purple or reddish under incandescent light [39]. This phenomenon is similar to that observed in alexandrite and is due to specific chemical compositions [39]. Color is a significant factor in determining the value of a sapphire gemstone [40][4].
+
+# Occurrence
+
+Sapphires are formed from the mineral corundum (Al₂O₃) under specific geological conditions involving high temperature and pressure [41]. These conditions are typically found in metamorphic and magmatic environments [42] [43].
+The formation of sapphires often occurs in metamorphic rocks during cataclysmic tectonic events, such as continental collisions that form mountain ranges [44] [45]. The Highland Complex of Sri Lanka, which contains high-grade metamorphic rocks, is a prime example of a region where sapphires are likely to form [46]. Sapphires can also be found in alluvial gem gravel deposits, where they have been transported from their original source rocks by erosion [43].
+In magmatic environments, sapphires can crystallize from melts [47]. Some sapphires are hosted in igneous dikes, with evidence suggesting they may have formed in the Earth's mantle [48]. These rocks are often undersaturated, meaning they lack free quartz [17].
+Gem corundum deposits are distributed globally and can develop in various geological environments [49]. Recently, gem-quality blue sapphires have been discovered in spinel-chlorite-muscovite rock within meta-ultramafites near the Ilmenogorsky alkaline complex [50]. Sapphires have also been found in situ in primary rocks in Greece [51].
+
+# Varieties
+
+Sapphire, a variety of the mineral corundum (aluminum oxide, Al2O3) [52][41][16], is well-known for its blue hues but also occurs in a wide spectrum of other colors [53][41][54][55]. While "sapphire" typically refers to the blue variety [53][56], any other color of corundum besides red (which is ruby) is also considered a sapphire [57]. These non-blue sapphires are often called "fancy sapphires" [40][53].
+Color is a primary factor in determining a sapphire's value [58][4][59][60], with the most coveted shade being a deep, velvety blue [61]. However, "fancy sapphires" come in pink, orange, yellow, green, purple, and violet [40]. The strength and saturation of the color significantly influence its value [40][62]. The color in sapphires arises from trace amounts of elements like iron, titanium, chromium, vanadium, and magnesium within the aluminum oxide structure [41][63][32]. For example, iron can lead to yellow sapphires, while vanadium can produce purple sapphires [63].
+Specific varieties of sapphire include:
+*   **Blue Sapphire:** The most well-known and highly valued variety [56][16][64]. The most desirable blue sapphires exhibit a velvety blue to violetish blue color with medium to medium-dark tones and strong to vivid saturation [56][62].
+*   **Padparadscha Sapphire:** A rare and highly sought-after sapphire with a pinkish-orange to orangish-pink hue [65][11][66].
+*   **Pink Sapphire:** A sapphire with a pink hue [40][53][66]. The line between a pink sapphire and a ruby can be subjective, with gemological labs like GIA often grading based on the dominant hue [57].
+*   **Yellow Sapphire:** A sapphire with a yellow hue [40][53][66]. Vivid yellow sapphires with high saturation are considered to be of the highest quality [67].
+*   **Green Sapphire:** A sapphire with a green hue [40][53][66].
+*   **Purple Sapphire:** A sapphire with a purple hue [40][53]. The purple color can result from the presence of vanadium or a combination of chromium, titanium, and ferrous iron [38][63].
+*   **Colorless Sapphire (Leucosapphire):** A sapphire that lacks color [53][66].
+*   **Black Sapphire:** A sapphire that appears black [53][66]. The dark appearance can be caused by hematite inclusions, which can also create asterism (star effect) [62].
+*   **Star Sapphire:** A sapphire exhibiting asterism, a star-like effect caused by inclusions [62][54][55]. Black star sapphires are one example [62].
+Sapphires are cut in various styles to enhance their brilliance and color [7][68]. Common cuts include brilliant, step, and mixed cuts [7][68]. Specific shapes include round brilliant, oval, pear, princess, baguette, and cabochon cuts [69]. The quality of the cut significantly impacts the sapphire's value [70].
+
+# Treatments and Enhancements
+
+Sapphires are often subjected to various treatments to enhance their color and clarity [60]. Heat treatment is a common practice, involving heating the stones to high temperatures (up to 1800°C) in a controlled environment [71]. This process can improve or intensify the color of the sapphire [71]. The "Fancy Burn" method involves heating sapphires to over 1400 degrees Celsius in an oxygen-rich environment [71].
+Besides heat treatment, other treatments exist. Exposing blue zircon to long-wave UV radiation can cause color modifications [72]. Some synthetic or lab-treated sapphires may contain inclusions like air bubbles or scratches [73]. A Be-thermodiffusion treatment can reduce TiO2 inclusions in corundum, which is then converted by iron [74]. Hydrothermal synthesis mimics natural formation by subjecting the minerals to intense heat and pressure [75].
+
+# Synthetic Sapphires
+
+Synthetic sapphires are manufactured forms of alumina oxide (Al2O3), the same mineral, corundum, that constitutes natural sapphires [25] [76]. The creation of synthetic sapphires became possible with the invention of a growth method from alumina melt by August Verneuil in 1904, known as the Verneuil method or flame fusion method [77].
+Several methods exist for producing synthetic sapphires [78].
+*   **Verneuil Method (Flame Fusion):** This involves melting the gemstone material using a high-temperature flame, resulting in the formation of pear-shaped crystals [77] [79].
+*   **Czochralski Method (Fusion Pull-up Method):** Developed in the 1960s to improve optical quality, this method involves dipping a sapphire seed crystal into molten alumina and slowly pulling it upwards [80] [81].
+*   **Kyropoulos Method:** Another method used for manufacturing single-crystal sapphire [80] [78].
+*   **Heat Exchange Method (Melting Crucible):** This is yet another technique employed in the creation of synthetic sapphires [80] [78].
+*   **Edge-defined Film-fed Growth (EFG):** A method used in the production of single crystal sapphire [80] [78].
+*   **Hydrothermal Synthesis:** This solution process mimics natural sapphire formation by subjecting minerals to intense heat and pressure [76] [75]. Sapphires form around a seed crystal as the mineral solution rises [75].
+*   **Flux Method:** Similar to hydrothermal synthesis, this method is used to create sapphires like Chatham sapphires [75].
+Synthetic sapphires share the same chemical formula (Al2O3) and crystal structure (hexagonal) as their natural counterparts [82] [83] [29] [20]. They also possess similar physical properties, including hardness, chemical inertness, and thermal stability [25] [29]. However, lab-treated or synthetic sapphires may contain inclusions such as air bubbles or scratches [73].
+
+# Imitations and Simulants
+
+Due to the value and desirability of natural sapphires, various imitations and simulants exist in the market. These can range from natural materials that resemble sapphire to entirely synthetic creations [84]. Identifying genuine sapphires often involves careful examination for inclusions, which are internal flaws or imperfections [85][9]. These inclusions can take various forms, including needle-like rutile, wispy fingerprints, geometric crystals, and tiny gas bubbles [86]. Gemological testing and certification can also help determine authenticity [87].
+Synthetic sapphires are created through several methods, including the Verneuil method, the Czochralski (Fusion Pull-up) method, the Kyropoulos method, the Heat Exchange Method, and the EFG method [80]. These processes involve melting and recrystallizing the necessary chemical components, such as sulfates, carbonates, or powdered metals [88].
+The clarity of a sapphire, along with its color, is a key factor in determining its value [4]. Inclusions, while sometimes indicative of a natural stone, can also affect clarity [85]. It's important to note that certain inclusions, like "lily pads," are associated with other gemstones like peridot, while similar features in sapphire are called discoids [10]. Some sapphires undergo treatments, such as beryllium diffusion, which can be detected through gemological testing [89].
+
+# Uses
+
+Sapphires are highly versatile gemstones due to their exceptional durability, wide range of colors, and good thermal, electrical, and dielectric properties [34] [90]. These properties contribute to their use in both jewelry and industrial applications [34] [91].
+Sapphires have been used in jewelry for centuries and are often associated with royalty and said to possess mystical powers [92]. The most popular cuts for sapphires in jewelry include oval, round, and cushion cuts, which are commonly used in rings, pendants, and earrings [93] [94]. Other cuts include the Asscher cut, radiant cut, pear cut, and baguette cut [95] [69] [96] [97]. The cut of a sapphire refers to the shape and arrangement of its facets, with the three basic styles being brilliant, step, and mixed cuts [68] [7]. The color of a sapphire is a significant factor in determining its value, with vivid and evenly saturated hues being the most desirable [98] [4]. Blue sapphires are the most well-known, but sapphires come in a wide range of colors [90] [98]. Some sapphires even exhibit color change under different lighting conditions [39].
+In addition to jewelry, sapphires have various industrial applications due to their transparency, high optical properties, and resistance to chemical attack [34] [99] [91]. Synthetic sapphires are commonly used in these applications [91]. For example, sapphire windows are used in the F-35 Lightning 2 Electro Optical Targeting System [32]. The excellent thermal properties of sapphire also make it suitable for other demanding applications [34]. Methods for artificially manufacturing sapphire have been developed for over a century, and modern advances have allowed for higher quality and more consistent production [91]. These methods include the Verneuil method, the Czochralski (Fusion Pull-up) method, the Kyropoulos method, the Heat Exchange Method (HEM), and the Edge Fed Growth (EFG) method [80] [78].
+
+# Cultural Significance
+
+Sapphires have long been associated with royalty and are believed to possess mystical powers [92]. Throughout history, they have been prized for their beauty, durability, and perceived rarity [100]. Sapphires are even considered by some to be powerful healing stones with physical, mental, and spiritual effects [101]. The stones have been worn by royalty for centuries [92].
+
+# Grading and Valuation
+
+The grading and valuation of sapphires is a complex process that considers several key factors, often referred to as the "4 Cs": Color, Clarity, Cut, and Carat weight [102] [103] [70] [64]. An additional factor, "Country of Origin," is also sometimes considered [104]. Unlike diamonds, color plays the most significant role in determining a sapphire's value [105] [106] [107].
+
+## Color
+
+Color is the most important factor in determining a sapphire's value [105] [106] [61] [59] [107]. The ideal sapphire exhibits a pure, vivid hue [105]. Color is evaluated based on hue, saturation, and tone [61] [59]. While blue is the most well-known color for sapphires, they also occur in other colors, including pink, orange, yellow, green, purple, and violet, which are sometimes referred to as "fancy sapphires" [40] [53]. However, the term "fancy sapphires" typically excludes colorless, black, and blue sapphires [53]. Some sapphires can even change color under different lighting conditions, typically appearing blue-violet in daylight and purple or reddish under incandescent light [39]. This phenomenon is similar to that observed in alexandrite and is due to the sapphire's chemical composition [39] [108]. For yellow sapphires, a vivid yellow color with high saturation (70-100%) indicates the highest quality [67]. In blue sapphires, a "true" blue color is most desirable [64]. Color zoning, where there are angular zones of different shades of blue, can also occur [62]. Cutters sometimes orient the stone to accommodate and display the most concentrated color [62].
+
+## Clarity
+
+Clarity refers to the presence of inclusions within the sapphire [56] [4]. Sapphires are typically Type 2 gemstones, meaning they usually contain inclusions [109]. Common types of inclusions include needles, fingerprint inclusions (formed during recrystallization) [110], color zoning [111], cavities, feathers, liquid inclusions, and rutile needles [85] [86]. "Silk," which refers to fine, needle-like inclusions, is a well-known type of inclusion in sapphires [111]. While extremely high clarity is rare in blue sapphires [56], the type, size, and location of inclusions can affect the stone's value [85] [86].
+
+## Cut
+
+The cut of a sapphire refers to the shape and arrangement of its facets [70] [7] [68]. The basic cut types are brilliant, step, and mixed cuts [7] [68]. Poor cutting can lower a sapphire's grade, leading to light leakage [112]. Common cuts for sapphires include oval, round, and cushion cuts [93] [94]. Other cuts include baguette, princess, pear, asscher, and radiant cuts [69] [95]. The ideal cut maximizes the sapphire's brilliance and minimizes any flaws [70] [112].
+
+## Carat Weight
+
+Carat weight is a standard measure of a gemstone's weight, and larger sapphires are generally more valuable, assuming all other factors are equal [102] [103] [70] [64].
+
+## Other Factors
+
+Besides the 4Cs, the country of origin can also influence a sapphire's value [104]. Sapphires can also exhibit pleochroism, meaning they show different colors when viewed from different angles [5] [113].

@@ -1,0 +1,7 @@
+streamlit
+pymongo
+python-dotenv
+pandas
+regex
+pymongo
+streamlit-javascript

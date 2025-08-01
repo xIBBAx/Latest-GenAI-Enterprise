@@ -1,0 +1,136 @@
+
+
+Parties
+This Service Agreement (the "Agreement") is made and entered into on [Date of Agreement], by and between:
+
+**ABC**, a [Type of legal entity, e.g., sole proprietorship, private limited company] registered under the laws of [Country/State of Registration], with its principal place of business located at [ABC's Address] (hereinafter referred to as the "Service Provider").
+
+AND
+
+**XYZ**, a [Type of legal entity, e.g., sole proprietorship, private limited company] registered under the laws of [Country/State of Registration], with its principal place of business located at [XYZ's Address] (hereinafter referred to as the "Client").
+
+The Service Provider and the Client may be referred to individually as a "Party" and collectively as the "Parties."
+
+
+
+
+
+Services
+This Service Agreement (the "Agreement") is entered into between ABC, a [Legal Entity Type of ABC] registered in [Country/State of Registration] with registration number [ABC Registration Number] and having its principal place of business at [ABC Address] (hereinafter referred to as "Service Provider"), and XYZ, a [Legal Entity Type of XYZ] registered in [Country/State of Registration] with registration number [XYZ Registration Number] and having its principal place of business at [XYZ Address] (hereinafter referred to as "Client").
+
+The Service Provider agrees to provide website development services to the Client for the purpose of building a robotics Software as a Service (SaaS) platform. The scope of services includes, but is not limited to:
+
+1.  **Platform Architecture and Design:** Development of the overall architecture and user interface/user experience (UI/UX) design for the robotics SaaS platform.
+2.  **Frontend Development:** Implementation of the client-side of the platform, ensuring a responsive and intuitive user interface.
+3.  **Backend Development:** Development of the server-side logic, database management, and API integrations necessary for the platform's functionality.
+4.  **Core Feature Implementation:** Building key features specific to the robotics SaaS platform as mutually agreed upon by both parties.
+5.  **Testing and Quality Assurance:** Conducting thorough testing to ensure the platform's stability, performance, and security.
+6.  **Deployment:** Assisting with the deployment of the developed platform.
+
+The total amount for the services rendered under this Agreement shall be 1,00,000 (One Lakh) Indian Rupees. Payment terms are as follows: 50% advance payment upon signing of this Agreement, and the remaining 50% upon successful completion and delivery of the robotics SaaS platform. The duration of this Agreement for the provision of services shall be three (3) months from the effective date of this Agreement.
+
+
+
+
+
+Payment Terms
+This Service Agreement is made between ABC (hereinafter referred to as the "Service Provider") and XYZ (hereinafter referred to as the "Client").
+
+1.  **Total Project Cost:** The total cost for the website development services to build the robotics SaaS platform for the Client is One Lakh Rupees (INR 1,00,000/-).
+
+2.  **Payment Schedule:** The payment shall be made in two installments:
+    *   **Advance Payment:** Fifty percent (50%) of the total project cost, amounting to Fifty Thousand Rupees (INR 50,000/-), shall be paid by the Client to the Service Provider upon signing of this Service Agreement.
+    *   **Final Payment:** The remaining fifty percent (50%) of the total project cost, amounting to Fifty Thousand Rupees (INR 50,000/-), shall be paid by the Client to the Service Provider upon the successful completion and delivery of the robotics SaaS platform, as mutually agreed upon by both parties.
+
+3.  **Payment Method:** All payments shall be made via bank transfer to the account details provided by the Service Provider.
+
+4.  **Invoicing:** The Service Provider shall issue an invoice for the advance payment upon signing of this agreement and a final invoice upon project completion.
+
+
+This section outlines the payment terms for the robotics SaaS platform development. The total cost is INR 1,00,000/-. A 50% advance payment of INR 50,000/- is due upon agreement signing. The remaining 50% of INR 50,000/- is payable upon successful project completion. Payments will be made via bank transfer.
+
+
+
+Term
+This Service Agreement (the "Agreement") shall commence on the Effective Date, which is the date of the last signature hereto, and shall continue for a period of three (3) months (the "Initial Term"), unless terminated earlier in accordance with the provisions of this Agreement. The Services to be provided by ABC (the "Service Provider") to XYZ (the "Client") under this Agreement are the development of a robotics SaaS platform.
+
+
+
+
+
+Confidentiality
+This Confidentiality clause is entered into between ABC ("Service Provider") and XYZ ("Client") in connection with the Service Agreement for the development of XYZ's robotics SaaS platform.
+
+1.  **Definition of Confidential Information:** For the purposes of this Agreement, "Confidential Information" shall mean any and all non-public information, whether oral, written, or in electronic form, disclosed by one party (the "Disclosing Party") to the other party (the "Receiving Party") that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Confidential Information includes, but is not limited to, business plans, financial information, technical data, trade secrets, customer lists, marketing strategies, proprietary software code, algorithms, designs, specifications, and any other proprietary or sensitive information related to the Client's business or the Service Provider's development process.
+
+2.  **Obligations of Receiving Party:** The Receiving Party agrees to:
+    a.  Keep all Confidential Information of the Disclosing Party strictly confidential.
+    b.  Use the Confidential Information solely for the purpose of performing its obligations or exercising its rights under this Service Agreement.
+    c.  Not disclose, disseminate, or publish any Confidential Information to any third party without the prior written consent of the Disclosing Party.
+    d.  Take all reasonable measures to protect the Confidential Information from unauthorized access, use, or disclosure, which measures shall be at least as stringent as those it uses to protect its own confidential information of a similar nature.
+    e.  Limit access to the Confidential Information to its employees, contractors, and agents who have a need to know such information for the purpose of fulfilling their duties under this Agreement and who are bound by confidentiality obligations no less restrictive than those contained herein.
+
+3.  **Exclusions:** The obligations of confidentiality under this section shall not apply to information that the Receiving Party can demonstrate:
+    a.  Was already known to the Receiving Party prior to disclosure by the Disclosing Party, free of any obligation of confidentiality.
+    b.  Is or becomes publicly available through no fault of the Receiving Party.
+    c.  Is rightfully received by the Receiving Party from a third party without restriction on disclosure and without breach of any obligation of confidentiality.
+    d.  Is independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information.
+    e.  Is required to be disclosed by law, regulation, or court order, provided that the Receiving Party shall, to the extent legally permissible, provide prompt written notice to the Disclosing Party of such requirement and cooperate with the Disclosing Party in seeking a protective order or other appropriate remedy.
+
+4.  **Term of Confidentiality:** The obligations of confidentiality under this section shall survive the termination or expiration of this Service Agreement for a period of [Specify Duration, e.g., five (5) years].
+
+5.  **Return or Destruction of Confidential Information:** Upon the written request of the Disclosing Party or upon termination or expiration of this Service Agreement, the Receiving Party shall promptly return to the Disclosing Party all Confidential Information in its possession or control, or, at the Disclosing Party's option, destroy all such Confidential Information and provide written certification of such destruction. Notwithstanding the foregoing, the Receiving Party may retain copies of Confidential Information as required by law or for archival purposes, provided that such retained copies remain subject to the confidentiality obligations set forth herein.
+
+
+This Confidentiality section between ABC (Service Provider) and XYZ (Client) ensures the protection of sensitive information exchanged during the robotics SaaS platform development. Both parties agree to keep disclosed non-public data, including technical and business details, strictly confidential. Information already public, independently developed, or legally required to be disclosed is excluded. Obligations extend for a specified period post-agreement, and parties must return or destroy confidential data upon request.
+
+
+
+Intellectual Property
+1.  **Ownership of Developed Work:** All intellectual property rights, including but not limited to copyrights, patents, trademarks, trade secrets, and any other proprietary rights, in and to the robotics SaaS platform and all related materials developed by ABC for XYZ under this Agreement (the "Developed Work") shall vest exclusively in XYZ upon full and final payment of the total service fee.
+2.  **Pre-existing Intellectual Property:** ABC retains all rights to its pre-existing intellectual property, including any tools, methodologies, software libraries, or code that ABC may use in the development of the Developed Work. XYZ acknowledges that ABC may use such pre-existing intellectual property in the development process. ABC grants XYZ a perpetual, non-exclusive, royalty-free license to use any of ABC's pre-existing intellectual property that is incorporated into the final Developed Work, solely for the purpose of operating and utilizing the robotics SaaS platform.
+3.  **Confidentiality:** Both parties agree to maintain the confidentiality of any proprietary information or trade secrets disclosed by the other party during the course of this Agreement. This obligation of confidentiality shall survive the termination of this Agreement.
+4.  **Third-Party Infringement:** XYZ shall be responsible for defending against any claims that the Developed Work infringes upon the intellectual property rights of any third party, provided that such infringement is not due to ABC's use of third-party materials without proper authorization or ABC's violation of its confidentiality obligations. ABC shall cooperate with XYZ in any such defense.
+
+
+This section clarifies that XYZ will own all intellectual property rights to the robotics SaaS platform upon full payment. ABC retains ownership of its pre-existing intellectual property but grants XYZ a license to use any incorporated into the final product. Both parties must maintain confidentiality, and XYZ is responsible for defending against third-party infringement claims not caused by ABC's actions.
+
+
+
+Warranties
+ABC warrants that the website development services provided under this Agreement will be performed in a professional and workmanlike manner, consistent with industry standards. ABC further warrants that the robotics SaaS platform developed will be free from material defects in design and workmanship for a period of thirty (30) days following the final acceptance of the platform by XYZ. This warranty does not cover issues arising from misuse, unauthorized modifications, or integration with third-party software not explicitly approved by ABC. XYZ warrants that it has the full right and authority to enter into this Agreement and to provide ABC with all necessary information and access for the performance of the services.
+
+
+
+
+Limitation of Liability
+Notwithstanding any other provision in this Agreement, ABC's total aggregate liability to XYZ for any and all claims, losses, damages, or causes of action arising out of or relating to this Agreement, including but not limited to breach of contract, tort (including negligence), or any other legal theory, shall not exceed the total amount paid by XYZ to ABC under this Agreement, which is one lakh (1,00,000) Indian Rupees. In no event shall ABC be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to lost profits, lost data, or business interruption, even if ABC has been advised of the possibility of such damages. This limitation of liability shall apply to the fullest extent permitted by applicable law.
+
+
+
+
+Termination
+This Service Agreement may be terminated by either party under the following conditions:
+
+1.  **Termination for Cause:** Either party may terminate this Agreement with immediate effect by providing written notice to the other party if the other party materially breaches any of its obligations under this Agreement and fails to cure such breach within thirty (30) days of receiving written notice specifying the breach.
+
+2.  **Termination for Convenience:** XYZ (Client) may terminate this Agreement for convenience at any time by providing ABC (Service Provider) with thirty (30) days' written notice. In the event of termination for convenience by XYZ, XYZ shall be obligated to pay ABC for all services rendered up to the effective date of termination, calculated on a pro-rata basis, and any non-refundable expenses incurred by ABC.
+
+3.  **Effect of Termination:** Upon termination of this Agreement, ABC shall cease all work on the robotics SaaS platform. XYZ shall pay ABC for all services performed and expenses incurred up to the effective date of termination. If termination occurs after the advance payment but before completion, XYZ will be liable for the full 1L rupees as per the agreed payment structure, reflecting the commitment to the project's completion, unless otherwise agreed in writing.
+
+
+This section outlines termination clauses for the robotics SaaS platform development agreement between ABC and XYZ. Either party can terminate for material breach with a 30-day cure period. XYZ can also terminate for convenience with 30 days' notice, requiring payment for services rendered and incurred expenses. Upon termination, ABC will cease work, and XYZ must settle all outstanding payments, including the full 1L rupees if termination occurs after the advance payment but before project completion.
+
+
+
+Governing Law
+This Service Agreement shall be governed by and construed in accordance with the laws of India. The parties hereby irrevocably consent to the exclusive jurisdiction of the courts located in [Specify City/State in India, e.g., New Delhi, India] for the resolution of any disputes arising out of or in connection with this Agreement.
+
+
+
+
+Entire Agreement
+This Service Agreement, entered into by and between ABC ("Service Provider") and XYZ ("Client"), constitutes the entire understanding and agreement between the parties concerning the subject matter herein. It supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, relating to the website development services for the robotics SaaS platform. No modification or amendment to this Agreement shall be effective unless in writing and signed by authorized representatives of both ABC and XYZ.
+
+
+

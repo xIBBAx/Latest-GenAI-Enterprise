@@ -1,0 +1,53 @@
+# Overview
+## Introduction
+## Key Features
+# History
+## Origins and Development (2002-2004)
+### The Mozilla Suite and the "m/b" Branch
+### Dave Hyatt and Blake Ross
+### Phoenix Project
+## Name Changes and Trademark Issues
+### Phoenix
+### Firebird
+### Final Name: Firefox
+## Initial Release and Early Adoption (2004-2005)
+### Firefox 1.0
+### Firefox 1.5
+## Forks and Derivatives
+# Features
+## User Interface
+## Customization
+## Security and Privacy
+### Sandboxing
+#### Process Separation (e10s, multi-e10s)
+#### Unprivileged User Namespaces
+### Same-Origin Policy
+### Content Security Policy (CSP)
+### Memory Safety
+### IPC Security
+## Standards Support
+### Adherence to W3C and WHATWG Standards
+### Gecko Rendering Engine
+### Role in Web Standards Development
+## Add-ons and Extensions
+## Synchronization
+## Accessibility
+# Technology
+## Gecko Engine
+## Quantum Project
+## WebAssembly Support
+# Security Vulnerabilities
+## Notable Vulnerabilities and Patches
+### CVE Examples (e.g., CVE-2024-9680, CVE-2011-3656)
+## Security Audits and Updates
+# Usage and Market Share
+## Platform Availability
+## Market Share Trends
+# Reception
+## Critical Reception
+## Awards and Recognition
+## Controversies
+## Related Browsers
+## Mozilla Foundation
+## Official Website
+## Mozilla Wiki Page

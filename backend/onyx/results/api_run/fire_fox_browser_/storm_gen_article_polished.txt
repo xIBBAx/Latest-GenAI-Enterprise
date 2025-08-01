@@ -1,0 +1,44 @@
+# summary
+
+**Firefox** is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation.[1][2][3] First released in 2004, Firefox is available for Windows, macOS, Linux, and Android, with a distinct version, Firefox Focus, available for iOS focusing on privacy.[4][5][2] It uses the Gecko rendering engine to display web pages, adhering to web standards to ensure accessibility and interoperability.[6][7][8][9][10][11][12][13][14]
+Firefox gained popularity as an alternative to Internet Explorer, offering a leaner and faster browsing experience.[15][4][5][2] It is known for its extensive customization options, security features like sandboxing and Domain Name System over HTTPS (DoH), and commitment to user privacy.[16][17][18][19][20][21][22] These features have contributed to Firefox's influence in the development of web standards.[23]
+While generally well-received for its features and open-source nature, Firefox's market share has fluctuated over time, facing competition from browsers like Google Chrome.[24][2] Mozilla's reliance on funding from search providers has also raised questions about its independence.[25] Furthermore, like all web browsers, Firefox is subject to security vulnerabilities, requiring regular updates to address potential exploits.[26][27][28][20][29]
+Despite these challenges, Firefox remains a prominent web browser, recognized for its commitment to web standards, user privacy, and open-source principles.[30][9][31][14][11][32][3][2] Mozilla actively participates in the development of open web standards, contributing to organizations like the IETF, W3C, and WHATWG.[14][11]
+
+# Overview
+
+Firefox is a web browser, a software application that allows users to access and view web pages on the World Wide Web [1] [24]. Web browsers are fundamental tools for navigating the internet, communicating with web servers, and displaying content to users [1] [33]. They interpret the code of web pages, which are often written using web standards [12] [9], and present the information in a user-friendly format [33].
+Key functions of a web browser include retrieving resources from the web, rendering HTML, CSS, and JavaScript, and providing a user interface for interaction [24] [33]. Modern browsers like Firefox also incorporate features such as fingerprinting protection [34], customizable search settings [35], and security measures to protect users from vulnerabilities [36]. Furthermore, some browsers are integrating AI-powered features to enhance the search experience [37].
+
+# History
+
+The project that eventually became Firefox began as an experimental branch of the Mozilla Suite, known as "m/b" (or mozilla/browser) [38][39][40][41][42]. Created by Dave Hyatt and Blake Ross, it aimed to offer a leaner and faster browsing experience compared to the resource-intensive Mozilla Suite [15][4][5].
+The browser underwent several name changes in its early development [42][32][43]. It was initially named Phoenix [44][38][45][32][46][47], with the first version, Phoenix 0.1, released on September 23, 2002 [48][49]. However, a trademark dispute with Phoenix Technologies, a BIOS manufacturer, forced a name change [38][45]. The name was then changed to Firebird, but this too was problematic due to a conflict with another open-source project [50].
+Finally, the project was renamed Firefox [51]. Firefox 1.0 was officially released on November 9, 2004 [4][5][2]. Following its release, Firefox quickly gained popularity and began to capture a significant share of the browser market from Microsoft's Internet Explorer [2].
+
+# Features
+
+Firefox, like other web browsers such as Google Chrome [24], allows users to access and navigate the internet by viewing websites [24] [1]. It renders web pages using the Gecko engine, adhering to web standards [6].
+*   **Security and Privacy:** Firefox offers advanced and customizable privacy and security features [16]. It is considered one of the safest and most secure browsers available [52]. Firefox incorporates features like sandboxing to isolate potentially malicious programs [17] [18] [19] [20] [21]. Browser sandboxing creates a barrier between the local system and the internet [17]. Furthermore, Firefox implements web security fundamentals such as the Same-Origin Policy [53] [54] [55]. Domain Name System over HTTPS (DoH) improves privacy by hiding domain name lookups [22].
+*   **Sandboxing:** Firefox employs sandboxing by utilizing parent and child processes [18] [19]. The parent process manages core functionalities like UI, profiles, navigation, and process selection [56]. Sandboxing helps to prevent attackers from escaping the browser's environment [28] [21].
+*   **Web Standards Compliance:** Firefox is designed to comply with web standards, which promote accessibility and interoperability [7] [8] [9] [10] [11] [12] [13] [14] [6]. Web standards help standardize how a website interacts with assistive technologies [7] [8].
+*   **Customization:** Firefox offers extensive customization options [16].
+*   **Memory Management:** Some users prefer Firefox for its memory usage compared to other browsers [57].
+
+# Technology
+
+Firefox utilizes the Gecko rendering engine to display web pages [6]. This engine is designed to adhere to both current and future web standards [6]. Mozilla actively participates in the development of open web standards and web-related specifications, submitting proposals to standards bodies like the IETF, W3C, WHATWG, and Ecma TC39 [14] [11]. Web standards are crucial for ensuring websites interact effectively with assistive technologies, making the web more accessible [7] [8]. Staying up-to-date with the latest web standards is essential for ensuring compatibility with various web app frameworks and technologies [10]. The browser's development has benefited from collaboration between the open web community and engineers from Mozilla and Google [58].
+
+# Security Vulnerabilities
+
+Mozilla regularly releases security updates to address vulnerabilities found in the Firefox browser [26]. These vulnerabilities can range in severity, with some allowing attackers to potentially escape the browser's sandbox [28] [20] or even gain unauthorized access to systems [29].
+Several vulnerabilities have been specifically identified and addressed in recent years. For example, CVE-2024-9680 was a serious security flaw that was reportedly exploited in the wild before a fix was released [27]. In April 2025, CVE-2025-2857 was patched to prevent attackers from escaping the browser's sandbox [28]. Firefox 139 included fixes for vulnerabilities such as a double-free in the libvpx encoder (MFSA-TMP-2025-0001) and error handling issues in script processing (CVE-2025-5263) [59]. Older versions of Firefox were also susceptible to vulnerabilities; for instance, versions before 42.0 and Firefox ESR 38.x before 38.4 had multiple unspecified vulnerabilities in the browser engine that could be exploited by remote attackers [60].
+Firefox employs a sandbox to enhance security, utilizing unprivileged user namespaces when creating new processes [20]. However, vulnerabilities can still arise, necessitating constant vigilance and updates from Mozilla [28] [29]. The Inter-Process Communication (IPC) security within Firefox is implemented on a protocol-by-protocol basis, acting as a gateway for many system components [61].
+
+# Usage and Market Share
+
+Soon after its release in November 2004, Firefox 1.0 began to gain a significant portion of the market share from Microsoft's Internet Explorer [2]. This growth was fueled, in part, by Firefox's focus on user empowerment and independence [62]. However, it's important to note that Mozilla, the organization behind Firefox, is largely funded by a dominant search provider [25], which raises questions about its complete independence. Despite this, Firefox's tracking protection features have contributed to its influence in the web standards process [23]. The browser's compatibility with internet standards remains a key concern for users [31], and Firefox strives to stay up-to-date with the latest web standards and ensure compatibility with popular web app frameworks [10][63].
+
+# Reception
+
+Reception of Mozilla Firefox has generally been positive, with users and critics alike praising its features and commitment to open web standards [30][9][31][14][11]. The browser is recognized as a free and open-source alternative to proprietary browsers [32][3][2]. Leadership roles within the Firefox community are often granted based on community activity and the quality of contributions [64].

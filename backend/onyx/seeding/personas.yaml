@@ -1,0 +1,204 @@
+personas:
+  - id: 0
+    name: "Search"
+    description: >
+      Assistant with access to documents and knowledge from Connected Sources.
+    # Default Prompt objects attached to the persona, see prompts.yaml
+    prompts:
+      - "Answer-Question"
+    # Default number of chunks to include as context, set to 0 to disable retrieval
+    # Remove the field to set to the system default number of chunks/tokens to pass to Gen AI
+    # Each chunk is 512 tokens long
+    num_chunks: 25
+    # Enable/Disable usage of the LLM chunk filter feature whereby each chunk is passed to the LLM to determine
+    # if the chunk is useful or not towards the latest user query
+    # This feature can be overriden for all personas via DISABLE_LLM_DOC_RELEVANCE env variable
+    # Disabling by default since for many deployments, it causes the user to hit rate limits with
+    # their LLM provider (e.g. Azure) or causes extremely slow results (Ollama).
+    llm_relevance_filter: false
+    # Enable/Disable usage of the LLM to extract query time filters including source type and time range filters
+    llm_filter_extraction: true
+    # Decay documents priority as they age, options are:
+    # - favor_recent (2x base by default, configurable)
+    # - base_decay
+    # - no_decay
+    # - auto (model chooses between favor_recent and base_decay based on user query)
+    recency_bias: "auto"
+    # Default Document Sets for this persona, specified as a list of names here.
+    # If the document set by the name exists, it will be attached to the persona
+    # If the document set by the name does not exist, it will be created as an empty document set with no connectors
+    # The admin can then use the UI to add new connectors to the document set
+    # Example:
+    # document_sets:
+    #   - "HR Resources"
+    #   - "Engineer Onboarding"
+    #   - "Benefits"
+    document_sets: []
+    icon_shape: 23013
+    icon_color: "#6FB1FF"
+    display_priority: 0
+    is_visible: true
+    is_default_persona: true
+    starter_messages:
+      - name: "Search for legal precedents"
+        message: "Under what circumstances can a non-signatory to an arbitration agreement be compelled to participate in arbitral proceedings."
+      - name: "Search for legal definitions"
+        message: "Describe me about caseprediciton, how it works, and its applications in the legal field."
+      - name: "Search for legal articles"
+        message: "Describe to me about Embedding creation and storing it using MilvusDB."
+      - name: "Search for legal case outcomes"
+        message: "What is the effect on the prosecution's case when eyewitnesses fail to specifically identify the accused in court, particularly when there are material omissions and differing versions in their testimonies, and what is the importance of such identification in proving guilt beyond a reasonable doubt?"
+
+  - id: 1
+    name: "General"
+    description: >
+      Assistant with no search functionalities. Chat directly with the Large Language Model.
+    prompts:
+      - "OnlyLLM"
+    num_chunks: 0
+    llm_relevance_filter: true
+    llm_filter_extraction: true
+    recency_bias: "auto"
+    document_sets: []
+    icon_shape: 50910
+    icon_color: "#FF6F6F"
+    display_priority: 1
+    is_visible: true
+    is_default_persona: true
+    starter_messages:
+      - name: "Define Articles"
+        message: "Define Article 14 of the Indian constitution and its legal implications."
+      - name: "Some major acts"
+        message: "What major Indian acts does a private company need to be aware of?"
+      - name: "Special economic zones"
+        message: "What are special economic zones and what are their taxation benefits?"
+      - name: "Create agreements"
+        message: "Create a service agreement for building a website."
+
+  - id: 2
+    name: "Paraphrase"
+    description: >
+      Assistant that is heavily constrained and only provides exact quotes from Connected Sources.
+    prompts:
+      - "Paraphrase"
+    num_chunks: 10
+    llm_relevance_filter: true
+    llm_filter_extraction: true
+    recency_bias: "auto"
+    document_sets: []
+    icon_shape: 45519
+    icon_color: "#6FFF8D"
+    display_priority: 2
+    is_visible: false
+    is_default_persona: true
+    starter_messages:
+      - name: "Document Search"
+        message: "Hi! Could you help me find information about our team structure and reporting lines from our internal documents?"
+      - name: "Process Verification"
+        message: "Hello! I need to understand our project approval process. Could you find the exact steps from our documentation?"
+      - name: "Technical Documentation"
+        message: "Hi there! I'm looking for information about our deployment procedures. Can you find the specific steps from our technical guides?"
+      - name: "Policy Reference"
+        message: "Hello! Could you help me find our official guidelines about client communication? I need the exact wording from our documentation."
+
+  - id: 3
+    name: "Art"
+    description: >
+      Assistant for generating images based on descriptions.
+    prompts:
+      - "ImageGeneration"
+    num_chunks: 0
+    llm_relevance_filter: false
+    llm_filter_extraction: false
+    recency_bias: "no_decay"
+    document_sets: []
+    icon_shape: 234124
+    icon_color: "#9B59B6"
+    image_generation: true
+    display_priority: 3
+    is_visible: true
+    is_default_persona: true
+    starter_messages:
+      - name: "Create visuals for a presentation"
+        message: "Generate someone presenting a graph which clearly demonstrates an upwards trajectory."
+      - name: "Find inspiration for a marketing campaign"
+        message: "Generate an image of two happy individuals sipping on a soda drink in a glass bottle."
+      - name: "Visualize a product design"
+        message: "I want to add a search bar to my Iphone app. Generate me generic examples of how other apps implement this."
+      - name: "Generate a humorous image response"
+        message: "My teammate just made a silly mistake and I want to respond with a facepalm. Can you generate me one?"
+
+  - id: 4
+    name: "Case Analysis"
+    description: >
+      Assistant for predicting case outcomes and providing legal reasoning.
+    prompts:
+      - "OnlyLLM"
+    num_chunks: 0
+    llm_relevance_filter: false
+    llm_filter_extraction: false
+    recency_bias: "no_decay"
+    document_sets: []
+    icon_color: "#6FB1FF"
+    display_priority: 4
+    is_visible: true
+    is_default_persona: true
+    starter_messages:
+      - name: "Medical Negligence Claim"
+        message: "During my surgery, the surgeon negligently left a medical sponge in my abdomen, causing physical and mental distress. I had to undergo another surgery to remove it. Do I have a legal claim against the hospital?"
+      - name: "Trademark Infringement"
+        message: "A competitor has adopted a brand name that, while visually distinct, sounds very similar to my registered trademark. I am concerned this may cause customer confusion and harm my brand's reputation. What legal remedies do I have?"
+      - name: "Property Possession Delay"
+        message: "I entered into an agreement with a property developer two years ago but have not received possession of my property. Despite multiple attempts to communicate, there has been no progress or valid reason for the delay. What legal action can I take?"
+      - name: "Cybercrime and Identity Theft"
+        message: "I recently discovered that someone stole my personal details and opened multiple financial accounts under my name, leading to fraudulent transactions. How can I legally address this and prevent further harm?"
+
+  - id: 5
+    name: "Deep Search"
+    description: >
+      Assistant for in-depth, real-time web search and comprehensive legal information retrieval.
+    prompts:
+      - "OnlyLLM"
+    num_chunks: 0
+    llm_relevance_filter: false
+    llm_filter_extraction: false
+    recency_bias: "no_decay"
+    document_sets: []
+    icon_color: "#FFD700"
+    display_priority: 5
+    is_visible: true
+    is_default_persona: true
+    starter_messages:
+      - name: "Recent Legal News"
+        message: "Applying for GST Amnesty Scheme in India"
+      - name: "Current Landscape of Hostile Takeovers"
+        message: "What is the current landscape of hostile takeovers in India, and what are the legal implications for companies involved in such actions?"
+      - name: "Legal Framework for Data Privacy"
+        message: "What is the current legal framework for data privacy in India, and how does it compare to global standards?"
+      - name: "Landmark Judgments in Indian Law"
+        message: "I'm looking for information on recent landmark judgments in Indian law, can you provide an overview of significant cases and their impact on current legal precedents?"
+
+  - id: 6
+    name: "Legacy Search"
+    description: >
+      Assistant designed for efficient and accurate legal information retrieval with ease.
+    prompts:
+      - "OnlyLLM"
+    num_chunks: 0
+    llm_relevance_filter: false
+    llm_filter_extraction: false
+    recency_bias: "base_decay"
+    document_sets: []
+    icon_color: "#4A90E2"
+    display_priority: 6
+    is_visible: true
+    is_default_persona: true
+    starter_messages:
+      - name: "Criminal Law"
+        message: "murder"
+      - name: "Digital Evidence"
+        message: "whatsapp"
+      - name: "Property Disputes"
+        message: "ownership"
+      - name: "Family Matters"
+        message: "custody"

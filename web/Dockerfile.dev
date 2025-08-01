@@ -1,0 +1,36 @@
+# Development Dockerfile (Dockerfile.dev)
+
+# Use the base node image for development
+FROM node:20-alpine AS base
+
+LABEL com.danswer.maintainer="founders@danswer.ai"
+LABEL com.danswer.description="This image is the web/frontend container of Danswer which \
+    contains code for both the Community and Enterprise editions of Danswer. If you do not \
+    have a contract or agreement with DanswerAI, you are not permitted to use the Enterprise \
+    Edition features outside of personal development or testing purposes. Please reach out to \
+    founders@danswer.ai for more information. Please visit https://github.com/danswer-ai/danswer"
+
+# Set up the working directory
+WORKDIR /app
+
+# Copy only package.json and package-lock.json initially to leverage Docker cache
+COPY package.json package-lock.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy the entire source code
+COPY . .
+
+# Disable Next.js telemetry for development
+ENV NEXT_TELEMETRY_DISABLED=1
+
+# Set environment variables for development mode, adjusting as needed
+ARG NEXT_PUBLIC_DISABLE_STREAMING
+ENV NEXT_PUBLIC_DISABLE_STREAMING=${NEXT_PUBLIC_DISABLE_STREAMING}
+
+ARG NEXT_PUBLIC_NEW_CHAT_DIRECTS_TO_SAME_PERSONA
+ENV NEXT_PUBLIC_NEW_CHAT_DIRECTS_TO_SAME_PERSONA=${NEXT_PUBLIC_NEW_CHAT_DIRECTS_TO_SAME_PERSONA}
+
+# Run the development server
+CMD ["npm", "run", "dev"]

@@ -1,0 +1,24 @@
+input_prompts:
+  - id: -5
+    prompt: "Define Articles"
+    content: "Define Article 14 of the Indian constitution and its legal implications."
+    active: true
+    is_public: true
+
+  - id: -4
+    prompt: "Some major acts"
+    content: "What major Indian acts does a private company need to be aware of?"
+    active: true
+    is_public: true
+
+  - id: -3
+    prompt: "Special economic zones"
+    content: "What are special economic zones and what are their taxation benefits?"
+    active: true
+    is_public: true
+
+  - id: -2
+    prompt: "Create agreements"
+    content: "Create a service agreement for building a website."
+    active: true
+    is_public: true

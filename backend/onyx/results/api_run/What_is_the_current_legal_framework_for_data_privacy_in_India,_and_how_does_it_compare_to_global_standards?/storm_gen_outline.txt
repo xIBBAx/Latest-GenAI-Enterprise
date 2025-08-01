@@ -1,0 +1,70 @@
+# Overview
+## Introduction
+### Importance of Data Privacy in India
+### Evolution of Data Privacy Laws in India
+## Key Definitions
+### Personal Data
+### Data Principal
+### Data Fiduciary
+### Processing
+# Legal Framework
+## The Information Technology Act, 2000 (IT Act)
+### Overview and Scope
+### Section 43A and Sensitive Personal Data
+### Limitations of the IT Act
+## The Digital Personal Data Protection Act, 2023 (DPDP Act)
+### Enactment and Commencement
+### Scope and Applicability
+#### Territorial Scope
+#### Extraterritorial Scope
+### Key Principles
+#### Transparency
+#### Consent
+#### Purpose Limitation
+#### Data Minimization
+#### Accuracy
+#### Storage Limitation
+#### Accountability
+## Other Relevant Laws and Regulations
+### Consumer Protection Act, 2019
+### Companies Act, 2013
+### Sector-Specific Regulations (e.g., Telecom, Banking, Healthcare)
+# Rights of Data Principals
+## Right to Access Information
+## Right to Correction, Completion, and Updating
+## Right to Erasure
+## Right to Nominate
+## Right to Grievance Redressal
+## Right to Data Portability
+## Right to be Forgotten
+## Right to Withdraw Consent
+# Obligations of Data Fiduciaries
+## Notice Requirements
+## Data Security Safeguards
+## Data Breach Notification
+## Appointment of Data Protection Officer (DPO)
+## Processing Children's Data
+# Enforcement and Penalties
+## Data Protection Board of India (DPBI)
+### Powers and Functions
+## Adjudication and Penalties
+## Appeals
+# Comparison with Global Standards
+## General Data Protection Regulation (GDPR) - European Union
+### Key Similarities
+### Key Differences
+## California Consumer Privacy Act (CCPA) - United States
+### Key Similarities
+### Key Differences
+## Other International Frameworks
+### APEC Privacy Framework
+### OECD Privacy Guidelines
+# Challenges and Criticisms
+## Implementation Challenges
+## Concerns about Government Surveillance
+## Balancing Innovation and Privacy
+## Adequacy of Enforcement Mechanisms
+# Future Developments
+## Potential Amendments to the DPDP Act
+## Emerging Technologies and Data Privacy
+## International Cooperation

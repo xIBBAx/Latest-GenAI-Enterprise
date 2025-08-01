@@ -1,0 +1,9 @@
+chromadb
+huggingface_hub
+python-dotenv
+regex
+streamlit
+numpy
+sentence_transformers
+fastapi
+google-generativeai # Comment this out once Huggingface Inference Pro is Restored
