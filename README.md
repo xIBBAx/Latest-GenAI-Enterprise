@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <h2 align="center">
-<a href="https://techpeek.in/"> <img width="50%" src="https://github.com/xIBBAx/Latest-GenAI-Enterprise/blob/main/web/public/Techpeek.png" /></a>
+<a href="https://techpeek.in/"> <img width="50%" src="https://github.com/xIBBAx/Latest-GenAI-Enterprise/blob/main/web/public/Techpeek%20Banner.png" /></a>
 </h2>
 
 <p align="center">
