@@ -6,7 +6,7 @@
 <p align="center">Gen-AI + Enterprise Search.</p>
 
 <p align="center">
-<a href="https://github.com/xIBBAx/Techpeek-AI-Documentations" target="_blank">
+<a href="https://github.com/xIBBAx/Techpeek-AI-Documentations/blob/main/Techpeek%20Services%20Documentation.pdf" target="_blank">
     <img src="https://img.shields.io/badge/docs-view-blue" alt="Documentation">
 </a>
 </p>
